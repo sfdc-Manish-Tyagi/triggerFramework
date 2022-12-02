@@ -26,3 +26,10 @@
 Not sophisticated. There are other trigger frameworks that provide a lot more functionality and extensibility but are heavier to implement.
 
 ![image](https://user-images.githubusercontent.com/56535937/205292535-d5a791df-df82-4523-ac5b-b417e9494a22.png)
+
+# 4# Framework with only TriggerHandler virtual base class controlled by Custom Metadata Type
+![image](https://user-images.githubusercontent.com/56535937/205299703-f0c4964b-a9df-4fa3-ab12-53c70ac7524f.png)
+
+![image](https://user-images.githubusercontent.com/56535937/205299724-659916c7-a00a-4bfc-aa0b-de14d54bf9c2.png)
+
+
