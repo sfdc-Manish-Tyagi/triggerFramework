@@ -16,3 +16,20 @@
 ![image](https://user-images.githubusercontent.com/56535937/205012365-f6649921-e973-49e8-ae4c-75f3d3a1f5c6.png)
 
 # 3# Framework with only TriggerHandler virtual base class
+# Benefits:
+. Simple and easy to implement.
+. Doesn’t require implementing an interface for every trigger handler with lots of empty methods as seen in some trigger frameworks. Remember folks that an abstract or virtual class is another way of “Programming to an Interface”.
+. Handles the dispatching to the correct event method. This removes the spaghetti code found in many triggers.
+. Provides a base implementation that can be extended to add other features such as “Centralized Logging”, “Feature Toggling”, and “Recursion Management” within the  Trigger Handler Base.
+
+# Limitations
+Not sophisticated. There are other trigger frameworks that provide a lot more functionality and extensibility but are heavier to implement.
+
+![image](https://user-images.githubusercontent.com/56535937/205292535-d5a791df-df82-4523-ac5b-b417e9494a22.png)
+
+# 4# Framework with only TriggerHandler virtual base class controlled by Custom Metadata Type
+![image](https://user-images.githubusercontent.com/56535937/205299703-f0c4964b-a9df-4fa3-ab12-53c70ac7524f.png)
+
+![image](https://user-images.githubusercontent.com/56535937/205299724-659916c7-a00a-4bfc-aa0b-de14d54bf9c2.png)
+
+
