@@ -30,6 +30,7 @@ Not sophisticated. There are other trigger frameworks that provide a lot more fu
 # 4# Framework with only TriggerHandler virtual base class controlled by Custom Metadata Type
 ![image](https://user-images.githubusercontent.com/56535937/205299703-f0c4964b-a9df-4fa3-ab12-53c70ac7524f.png)
 
-![image](https://user-images.githubusercontent.com/56535937/205299724-659916c7-a00a-4bfc-aa0b-de14d54bf9c2.png)
+![image](https://user-images.githubusercontent.com/56535937/205319894-6a6d7f41-385f-4624-bc8f-585774b7c42a.png)
+
 
 
